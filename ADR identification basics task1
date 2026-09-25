@@ -1,0 +1,37 @@
+# ADR Identification Basics
+
+## Overview
+ADR Identification Basics is a beginner-friendly pharmacovigilance project designed to understand how suspected Adverse Drug Reactions (ADRs) can be identified through patient case scenarios.
+
+The project focuses on evaluating patient symptoms, medication history, and the timeline of drug exposure to determine whether an adverse event may be associated with a suspected medicine.
+
+## Objectives
+- Understand the basics of adverse drug reactions.
+- Review patient symptoms and medical history.
+- Identify suspected drugs associated with adverse events.
+- Assess the temporal relationship between drug exposure and symptoms.
+- Understand the importance of accurate ADR documentation and reporting.
+
+## ADR Identification Process
+1. **Review:** Collect patient symptoms, medical history, and relevant clinical information.
+2. **Analyze:** Review medications, doses, treatment duration, and the onset of symptoms.
+3. **Identify:** Determine whether a drug may be associated with the reported reaction.
+4. **Assess:** Evaluate the available evidence using an appropriate causality assessment method, such as the Naranjo Algorithm.
+5. **Document:** Record the suspected reaction and relevant findings.
+
+## Sample Patient Case
+**Patient:** Female, 45 years old
+
+**Presenting symptoms:** Rash, itching, nausea, and dizziness.
+
+**Assessment:** Review the patient's medication history, the time of symptom onset, dosage, and any alternative causes. The suspected medicine cannot be identified without additional clinical information.
+
+## Importance of ADR Identification
+- Supports patient safety.
+- Helps identify potential medication-related risks.
+- Contributes to pharmacovigilance activities.
+- Supports appropriate adverse event reporting.
+- Promotes the safe and rational use of medicines.
+
+## Applications
+This project is intended for pharmacy students, pharmacovigilance learners, and beginners interested in drug safety and adverse event assessment.
